@@ -1,0 +1,34 @@
+script:
+damion
+# molle
+# sue ellen francisco
+# rochester
+Caveat
+
+slab/serif:
+# sanchez
+!!! rokkitt
+# crete round
+zilla slab
+# slabo13px
+copse
+# coustard
+donegal one
+
+sans:
+raleway
+# oswald
+pt sans narrow
+pragati narrow
+# league spartan
+!!! work sans
+!! yantramanav
+
+background-image: 
+http://www.wildtextures.com/free-textures/high-resolution-concrete-texture/
+# http://www.wildtextures.com/free-textures/hand-trowelled-grey-wall-surface/
+
+
+worklog:
+- 9/17: 1 hour, 12p-1p
+- 9/18: 4 hours 7p-11p

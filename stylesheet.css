@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  margin: 0 0 0 16px;
+}
+
+.body {
+/*        background-color: rgba(44,44,44,0.5);*/
+  height: 100%;
+  padding: 24px;
+}
+
+.background-image {
+  opacity: 29%;
+  
+/*        background-color: #10142F;*/
+/*        background-image: url("http://api.thumbr.it/whitenoise-361x370.png?background=25262e&noise=595f80&density=51&opacity=29");*/
+    background-image: url('http://api.thumbr.it/whitenoise-361x370.png?background=25262e&noise=595f80&density=18&opacity=21');
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+.banner-title {
+  font-size: 64;
+  color: #eee;
+}
+
+.hidden {
+  display: none;
+}
+
+.navigation-list {
+  
+}
+
+.navigation-list-element {
+  
+}
+
+.font-script {
+  font-family: "Damion";
+
+}
+
+.font-slab, .font-serif {
+  font-family: "Rokkitt";
+  font-weight: 700;
+}
+
+.font-sans, body {
+  font-family: "Work Sans";
+  font-weight: 100;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  margin: 0
+}
+
+.h1, h1 {
+  font-size: 56px;
+}
+
+.h2, h2 {
+  font-size: 42px
+}
+
+.h2, .h3, h2, h3 {
+  line-height: 56px
+}
+
+.h3, h3 {
+  font-size: 35px
+}
+
+.h4, h4 {
+  font-size:32px
+}
+
+.h4, .h5, h4, h5, body{
+  line-height:35px
+}
+
+.h5, h5, body {
+  font-size: 28px
+}
+
+.h6, h6 {
+  font-size: 24px;
+  line-height:35px;
+  letter-spacing:.25px
+}
+
+.type-lg {
+  font-size: 32px;
+  line-height: 42px
+}
+
+.type-sm, small {
+  font-size: 24px !important;
+  line-height: 35px;
+}
+
+.type-xs {
+  font-size: 21px !important;
+  line-height: 35px;
+  letter-spacing: .25px
+}
+
+.type-xxxl {
+  font-size: 96px !important;
+  line-height: 80px;
+}
+
+.em-low{font-weight:100!important}.em-default{font-weight:400!important}.em-high{font-weight:500!important}.em-max{font-weight:700!important}.em-alt{text-transform:uppercase!important}.em-alt-2{
+  text-transform: lowercase !important; }
+
+.type-brand-1 {
+/*        color: hsl(12, 71%, 64%) !important;*/
+  color: hsl(143, 55%, 62%) !important;
+}
+
+.type-underline {
+  display: inline-block;
+
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  line-height: 2.5rem;
+}
+
+.grid {
+  display: grid;
+}
+
+.inline-grid {
+  display: inline-grid;
+}
+
+.subgrid {
+  display: subgrid;
+}

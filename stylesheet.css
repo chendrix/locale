@@ -116,15 +116,11 @@ p {
   text-transform: lowercase !important; }
 
 .type-brand-1 {
-/*        color: hsl(12, 71%, 64%) !important;*/
-  color: hsl(143, 55%, 62%) !important;
-  color: hsl(143, 84%, 77%) !important;
-
+  color: hsl(227, 84%, 77%) !important;
 }
 
 .type-brand-2 {
-  color: hsl(227, 67%, 84%) !important;
-    color: hsl(84, 84%, 77%) !important;
+  color: hsl(84, 84%, 77%) !important;
 }
 
 .type-brand-3 {
@@ -133,6 +129,10 @@ p {
 
 .type-brand-4 {
   color: hsl(-168, 84%, 77%);
+}
+
+.type-brand-5 {
+  color: hsl(12,84%,77%) !important
 }
 
 .grid {

@@ -24,6 +24,14 @@ pragati narrow
 !!! work sans
 !! yantramanav
 
+brand color: 
+
+#141D3D rgb(29,20,61)
+green: #559E6D
+yellow: 2F2B10
+https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.15209670714385315,0.06805068836045054,0.23431372549019608,0.27431372549019606,0.12267011763719123,0.07966770963704627,0.1843137254901961,0.16850094876656344,0.06274509803921567,0.33480000000000004,0.62,0.4293275655774921,0.0784313725490196,0.11372549019607843,0.23921568627450981&swatchOrder=0,1,2,3,4
+  
+
 background-image: 
 http://www.wildtextures.com/free-textures/high-resolution-concrete-texture/
 # http://www.wildtextures.com/free-textures/hand-trowelled-grey-wall-surface/
